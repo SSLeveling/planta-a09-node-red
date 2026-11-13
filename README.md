@@ -7,3 +7,5 @@ Proyecto A09 - Simulación, monitoreo y control de una planta de tratamiento de 
 
 This is your project's README.md file. It helps users understand what your
 project does, how to use it and anything else they may need to know.
+
+Prueba de sincronización Git - Proyecto A09
