@@ -1,0 +1,12 @@
+{
+    "name": "planta-a09-node-red",
+    "description": "Proyecto A09 - Simulación, monitoreo y control de una planta de tratamiento de aguas mediante Node-RED y MQTT.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}

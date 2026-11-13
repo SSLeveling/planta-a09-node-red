@@ -1,0 +1,7 @@
+*.backup
+flows_cred.json
+.env
+.env.*
+node_modules/
+settings.js
+settings_backup.js
