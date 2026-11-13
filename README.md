@@ -13,3 +13,5 @@ Prueba de sincronización Git - Proyecto A09
 ## Demostración de control de versiones
 
 Este proyecto utiliza Git y GitHub para registrar los cambios realizados en los flujos de Node-RED y mantener sincronizado el repositorio local con el remoto.
+
+Demostración de PULL realizada desde GitHub.
